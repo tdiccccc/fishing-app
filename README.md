@@ -1,24 +1,26 @@
-# README
+# 魚(war)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# 概要
+ 魚(war)は釣り場や釣り方、日付け、時間帯など記録しながら共有できるだけでなく、
+ ゲーム感覚で釣果を上げて点数を競うアプリです。
+ 
+# 制作背景
+ よく釣りに行く友人と釣果を競っており、いっそアプリにしてしまおうと考えました。
+ ただの釣果の記録だけでなく、釣り方や場所、道具などを共有することで、
+ 私と友人だけでなく、様々なアングラーの人たちの役に立つアプリにしようと思います。
 
-Things you may want to cover:
+# 機能一覧
 
-* Ruby version
+## ユーザー機能
+- ユーザーの新規登録
+- プロフィール画像の追加
+- ユーザー情報の編集
+- ゲストログイン
 
-* System dependencies
+## フォロー機能
 
-* Configuration
+## 投稿機能
+- googlemapで位置表示
+- ハッシュタグ
+- 画像複数選択
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
